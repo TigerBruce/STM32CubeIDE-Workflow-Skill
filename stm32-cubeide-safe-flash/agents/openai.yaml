@@ -1,0 +1,3 @@
+display_name: STM32CubeIDE Safe Flash
+short_description: Safely build and flash STM32CubeIDE firmware with ST-LINK.
+default_prompt: Build or flash this STM32CubeIDE firmware project safely. Read project-local memory first, use explicit make targets, preserve calibration Flash, and report verification results.
