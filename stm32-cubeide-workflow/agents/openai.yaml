@@ -1,0 +1,3 @@
+display_name: STM32CubeIDE Workflow
+short_description: Build, flash, and debug STM32CubeIDE firmware safely.
+default_prompt: Work on this STM32CubeIDE firmware project safely. Read project-local memory first, use explicit make targets, preserve Flash parameters, and verify build, flash, serial, or ST-LINK debug results.
