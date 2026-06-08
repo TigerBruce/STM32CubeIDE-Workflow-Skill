@@ -1,7 +1,5 @@
 # STM32CubeIDE Workflow Skill
 
-中文名：**STM32CubeIDE 工作流 Skill**
-
 这是一个面向 Codex / Agent 的 STM32CubeIDE 工程工作流 Skill，用于让 Agent 在处理 STM32 固件工程时，先读项目本地记忆和规则，再执行编译、下载/烧录和调试排查。
 
 它不是 Zed、Cursor 或 VS Code 插件。编辑器只是前端；真正的编译、下载和调试依赖 STM32CubeIDE 生成的 Makefile、ST-LINK、STM32 Programmer CLI、串口工具和项目本地规则。
